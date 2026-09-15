@@ -74,3 +74,7 @@ footer { background: var(--ink); color: var(--white); padding: 25px 0; font-size
   display: block;
   margin: 0 auto 25px;
 }
+/* Keep the counselling approach section full width */
+#approach .container {
+  display: block;
+}
