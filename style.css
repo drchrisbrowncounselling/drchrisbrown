@@ -65,3 +65,12 @@ footer { background: var(--ink); color: var(--white); padding: 25px 0; font-size
   .hero { padding: 60px 0; }
   .section { padding: 60px 0; }
 }
+/* Profile photograph */
+.profile-photo {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 25px;
+}
