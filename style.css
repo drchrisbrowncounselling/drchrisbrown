@@ -78,3 +78,8 @@ footer { background: var(--ink); color: var(--white); padding: 25px 0; font-size
 #approach .container {
   display: block;
 }
+/* Smaller welcome heading */
+.welcome-heading {
+  font-size: 2.4rem;
+  line-height: 1.2;
+}
